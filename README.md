@@ -9,3 +9,4 @@
  * CSS
   
  * JavaScript
+ * Local Storage
